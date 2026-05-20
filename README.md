@@ -4,7 +4,7 @@
 </h1>
 
 ### **An Engineer and Service Designer focused on crafting high-impact, accessible web applications and inclusive digital ecosystems.**
-Computer Science Engineer and Senior HCD Expert with a decade of experience bridging the gap between technical infrastructure and human experience. As a Digital Transformation Consultant and Head of Pedagogy at Africa Design School, I specialize in building inclusive GovTech solutions and fostering the next generation of designers. I am also the Lead of GDG Abomey-Calavi, dedicated to strengthening the African tech ecosystem through community leadership and STEM education.
+Computer Science Engineer and Senior HCD Expert with a decade of experience bridging the gap between technical infrastructure and human experience. As a Digital Transformation Consultant and Head of Pedagogy at Africa Design School, I specialize in building inclusive GovTech solutions and fostering the next generation of designers. I'm also Lead of GDG Abomey-Calavi, dedicated to strengthening the African tech ecosystem through community leadership and STEM education.
 
 - 🌱 I’m currently specializing as a Generative AI Leader, leveraging Google Cloud's AI suite (Gemini, Google AI Studio) to drive organizational transformation and business innovation through ethical and human-centered AI implementation.
 - 💬 Ask me about **Product design, User reseach, Acessibility, ...or LLM & using AI in daily work**
